@@ -10,3 +10,8 @@ near learn
 
 
 master change ++++++++  newDev +++++++   change form remote
+
+
+
+
+remote merge again + other online file
