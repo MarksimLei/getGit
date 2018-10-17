@@ -9,6 +9,4 @@ stas
 near learn
 
 
-
-
-master change ++++++++  newDev
+master change ++++++++  newDev +++++++   change form remote
